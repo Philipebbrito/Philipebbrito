@@ -2,7 +2,7 @@
 
 **`Back-end`**
 
-Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade CCI modelo presencial, e no período noturno. Sou apaixonado por tecnologia. Atualmente focado em desenvolver soluções eficientes e aprender novas ferramentas. 
+Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade CCI modelo presencial, e no período noturno. Atualmente focado em desenvolver soluções eficientes e aprender novas ferramentas. 
 
 <p align="left">
 ---
