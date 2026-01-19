@@ -101,7 +101,7 @@ Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atua
   <img 
     align="left" 
     alt="GitHub Stats" 
-    width="300" 
+    width="350" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Philipebbrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -109,7 +109,7 @@ Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atua
 <img 
       align="left" 
       alt="GitHub Stats" 
-      width="300"
+      width="350"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipebbrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
