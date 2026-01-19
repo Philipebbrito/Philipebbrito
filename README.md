@@ -92,10 +92,6 @@ Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atua
     src="https://images.seeklogo.com/logo-png/48/1/coreldraw-logo-png_seeklogo-485082.png" 
     />
 
-
-
-
-
 <br/>
 <br/>
 
@@ -105,7 +101,7 @@ Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atua
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    width="300" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=Philipebbrito&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
@@ -113,7 +109,7 @@ Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atua
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      width="300"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Philipebbrito&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
