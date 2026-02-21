@@ -4,7 +4,7 @@
 **`Back-end`**
 
 Me chamo Philipe Borges de Brito, tenho 34 anos e sou natural de Brasília. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Faculdade CCI modelo presencial, e no período noturno. Atualmente focado em desenvolver soluções eficientes e aprender novas ferramentas. 
-Desenvolvedor focado em construir soluções robustas e escaláveis. Com experiência no ecossistema Java e Spring, busco constantemente aplicar as melhores práticas de engenharia de software para entregar aplicações modernas e eficientes. Atualmente, foco em aprimorar a integração entre back-end e front-end.
+Desenvolvedor focado em construir soluções robustas e escaláveis. Com foco no ecossistema Java e Spring, busco constantemente aplicar as melhores práticas de engenharia de software para entregar aplicações modernas e eficientes. Atualmente, foco em aprimorar a integração entre back-end e front-end.
 
 <p align="left">
 ---
