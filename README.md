@@ -90,7 +90,7 @@ Desenvolvedor focado em construir soluções robustas e escaláveis. Com foco no
     title="CorelDraw"
     width="30px" 
     style="padding-right: 10px;"
-    src="[[https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRt7MIl1AZZLe9d-NDf3XfLMJp_PPTsZ_txxA&s](https://static.vecteezy.com/system/resources/previews/066/498/972/non_2x/corel-draw-outline-icon-free-png.png)](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzBcxD3evbgFUT9f6DAcQSttpuJED5yoPRQ&s)" 
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMzBcxD3evbgFUT9f6DAcQSttpuJED5yoPRQ&s" 
     />
 
 <br/>
